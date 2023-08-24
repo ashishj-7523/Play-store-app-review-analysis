@@ -1,7 +1,11 @@
 # Play Store App Reviews Analysis
 
-![Project Banner](https://cdn.pixabay.com/photo/2018/10/11/21/24/space-3746923_1280.jpg) <!-- Attractive space-themed banner image -->
-
+████████╗███████╗███╗ ██╗███████╗
+╚══██╔══╝██╔════╝████╗ ██║██╔════╝
+██║ █████╗ ██╔██╗ ██║███████╗
+██║ ██╔══╝ ██║╚██╗██║╚════██║
+██║ ███████╗██║ ╚████║███████║
+╚═╝ ╚══════╝╚═╝ ╚═══╝╚══════╝
 Welcome to the **Play Store App Reviews Analysis** repository! 🚀
 
 ## Overview
