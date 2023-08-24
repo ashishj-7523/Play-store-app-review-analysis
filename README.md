@@ -1,18 +1,13 @@
 # Play Store App Reviews Analysis
 
-<span style="color:#3498db">███╗   ██╗███████╗████████╗███████╗</span>
-<span style="color:#e74c3c">████╗  ██║██╔════╝╚══██╔══╝██╔════╝</span>
-<span style="color:#2ecc71">██╔██╗ ██║███████╗   ██║   █████╗</span>
-<span style="color:#f39c12">██║╚██╗██║╚════██║   ██║   ██╔══╝</span>
-<span style="color:#9b59b6">██║ ╚████║███████║   ██║   ███████╗</span>
-<span style="color:#34495e">╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝</span>
+![Project Banner](https://drive.google.com/file/d/1Gwe6fiMwrDn6zdmMoNvO9up61Rug0o_n/view)
 
 
 Welcome to the **Play Store App Reviews Analysis** repository! 🚀
 
 ## Overview
 
-This repository hosts an exploratory data analysis (EDA) project that dives into Play Store app reviews. The project aims to uncover insights that can drive app development, improve user satisfaction, and guide marketing strategies. The analysis was conducted using a Jupyter Notebook on Google Colab.
+This repository hosts an exploratory data analysis (EDA) project that dives into Play Store app reviews. The project aims to uncover insights that can drive app development, improve user satisfaction, and guide marketing strategies. The analysis was conducted using a Notebook on Google Colab.
 
 ## Table of Contents
 
