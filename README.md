@@ -1,11 +1,13 @@
 # Play Store App Reviews Analysis
 
-████████╗███████╗███╗ ██╗███████╗
-╚══██╔══╝██╔════╝████╗ ██║██╔════╝
-██║ █████╗ ██╔██╗ ██║███████╗
-██║ ██╔══╝ ██║╚██╗██║╚════██║
-██║ ███████╗██║ ╚████║███████║
-╚═╝ ╚══════╝╚═╝ ╚═══╝╚══════╝
+<span style="color:#3498db">███╗   ██╗███████╗████████╗███████╗</span>
+<span style="color:#e74c3c">████╗  ██║██╔════╝╚══██╔══╝██╔════╝</span>
+<span style="color:#2ecc71">██╔██╗ ██║███████╗   ██║   █████╗</span>
+<span style="color:#f39c12">██║╚██╗██║╚════██║   ██║   ██╔══╝</span>
+<span style="color:#9b59b6">██║ ╚████║███████║   ██║   ███████╗</span>
+<span style="color:#34495e">╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝</span>
+
+
 Welcome to the **Play Store App Reviews Analysis** repository! 🚀
 
 ## Overview
